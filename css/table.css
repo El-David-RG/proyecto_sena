@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+.regresar_ {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  text-decoration: none;
+  position: relative;
+  padding: 10px 22px;
+  background: #7d2ae8;
+  border-radius: 6px;
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+.titulo {
+  text-align: center;
+}

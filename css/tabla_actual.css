@@ -1,0 +1,17 @@
+.real {
+  text-align: center;
+  font-size: 30px;
+}
+.tabla_container_ {
+  text-align: center;
+  position: relative;
+  margin-left: 30%;
+}
+
+.tabla_actual tr,
+th,
+td {
+  border: solid;
+  margin: 0 auto;
+  left: 23px;
+}
